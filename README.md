@@ -11,11 +11,11 @@ Simple Web3 Project is a JavaScript library that provides a simple interface for
 You can install Simple Web3 Project via npm:
 
 ```bash
-npm install cryptopunkstar
+npm install examcryp
 ```
 ## Usage
 
-const SimpleWeb3Project = require('cryptopunkstar-eth');
+const SimpleWeb3Project = require('examcryp');
 
 // Create an instance with your preferred Ethereum node endpoint
 const web3Project = new SimpleWeb3Project('https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID');
@@ -65,7 +65,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Web3.js - https://github.com/ethereum/web3.js/
 javascript
 
-## youtube contact
 
-https://www.youtube.com/@Cryptopunkstar
 
